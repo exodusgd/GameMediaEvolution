@@ -7,6 +7,7 @@ The code requires a Processing 4 installation (or compatible) to run. For a Wind
 Using the slider below the tv screen you can control the amount of the displayed storage media. Once the total capacity of the displayed storage media reaches the next jump in technology, it starts displaying the following storage media. To go back to the previous media, just drag the slider to the left of its starting position.
 
 ![image](https://github.com/user-attachments/assets/be32d25c-85c1-4bc2-988b-7f0905e212e3)
+![image](https://github.com/user-attachments/assets/b6d2607b-65fd-464c-b50f-cd0a8a6b95ac)
 
 ### Resources
 Note that the various image and sound files used in this project were created by their respective authors, credited in the [resources-credits](resources-credits.pdf) document.
